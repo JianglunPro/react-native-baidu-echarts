@@ -1,0 +1,24 @@
+{
+  "name": "react-native-baidu-echarts",
+  "version": "1.0.0",
+  "description": "a react-native component for iOS to render latest echarts 4.0 with really simple and readable code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JianglunPro/react-native-baidu-echarts.git"
+  },
+  "keywords": [
+    "react-native",
+    "echarts",
+    "chart"
+  ],
+  "author": "jianglun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JianglunPro/react-native-baidu-echarts/issues"
+  },
+  "homepage": "https://github.com/JianglunPro/react-native-baidu-echarts"
+}
